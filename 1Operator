@@ -1,0 +1,9 @@
+1] Operator 
+An operator is a symbol that performs an operation on operands. 
+2] Operand
+An operand is the value or variable on which an operator performs the operation.
+a = 10
+b = 5
+c = a + b
+Here, + is the operator 
+a and b are operands .
