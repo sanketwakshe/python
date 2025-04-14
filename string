@@ -1,0 +1,38 @@
+
+string 
+ Format = a= "sanket {} "
+print(a.format("wakshe"))
+
+capitalize
+a = "sanket"
+print(a.capitalize())
+
+center 
+name = "sanket"
+print (name.center(20,"*"))
+
+s = "  hello world  "
+print(s.strip())       # Remove leading/trailing spaces
+print(s.replace("world", "Sanket"))  # Replace word
+print(s.split())       # Split into list
+print(s.find("lo"))    # Find index of substring
+print(s.isalpha())     # Check if only alphabets
+-------------------------------------------------------------------------
+string function
+a=sanket
+endswith()
+print(a.endswith("e" ,2,4))
+--------------------------------
+a ="*sank*sanika*om"
+print(a.split('*'))
+---------------------------------
+* rjust/ljust 
+a = "harry potter"
+x = a.rjust(20)
+
+print(x,"is my favorite movie")
+----------------------------------
+a = "sanket sanika"
+print(a.replace("sanika","shreya"))
+
+
